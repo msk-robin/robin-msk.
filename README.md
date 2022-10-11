@@ -3,3 +3,26 @@
  <source media="(prefers-color-scheme: light)" srcset="https://www.freepik.com/free-photo/empty-dark-room-modern-futuristic-sci-fi-background-3d-illustration_21835199.htm#page=5&query=nft&position=12&from_view=keyword">
  <img alt="YOUR-ALT-TEXT" src="https://img.freepik.com/premium-photo/success-employment-concept_670147-7196.jpg?w=1380">
 </picture>
+
+## About me
+
+Hi, am zazu. A captain of a mighty ship on an epic voyage to smart softwares.
+
+
+<details open>
+<summary>My top Schools. </summary>
+
+| Rank |   Schools   |
+|-----:|---------------|
+|     1|   Kibo        |
+|     2|   Alx         |
+|     3|   Zetech      |
+
+</details>
+
+---
+>My brain is only a receiver, in the Universe there is a core from which we obtain knowledge, strength and inspiration. I have not penetrated into the secrets of this core, but I know that it exists.
+
+- Nikola Tesla
+
+<!--TO .DO. add more details about me later -->
