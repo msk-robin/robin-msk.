@@ -21,8 +21,8 @@ Hi, am zazu. A captain of a mighty ship on an epic voyage to smart softwares.
 </details>
 
 ---
->My brain is only a receiver, in the Universe there is a core from which we obtain knowledge, strength and inspiration. I have not penetrated into the secrets of this core, but I know that it exists.
+>I am learning to pull plans, committing to push innovation.
 
-- Nikola Tesla
+- Robin Musyoki
 
 <!--TO .DO. add more details about me later -->
