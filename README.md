@@ -6,6 +6,10 @@
 
 <!-- Banner -->
 <p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&pause=800&color=00FFB2&center=true&vCenter=true&width=1000&lines=msk-robin+%7C+Full-Stack+Sorcerer;Machine+Learning+Alchemist+%7C+Web3+Tinkerer;~%24+git+clone+https%3A%2F%2Fgithub.com%2Fmsk-robin;~%24+cd+developer-magic;~%24+npm+run+build+%26%26+✨;Initiating+clean+code+protocol...;Deploying+high+IQ+solutions...;Welcome+to+the+dark+terminal+of+tech" alt="Typing SVG terminal banner" />
+</p>
+
+<p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=30&pause=1000&color=00FFB2&center=true&vCenter=true&width=800&lines=msk-robin+%7C+Full-Stack+Sorcerer;AI+Whisperer+%7C+Web3+Tinkerer;Let's+build+dope+%26+dangerous+tech" alt="Typing SVG" />
 </p>
 
