@@ -28,6 +28,30 @@ const mskRobin = {
   motto: "Break stuff. Fix better.",
 }
 
+🧠 LANGUAGES:
+JavaScript | TypeScript | Python | Kotlin | Solidity | Bash | PowerShell
+
+🖼️ FRONTEND:
+React | Next.js | Flutter | TailwindCSS | SASS | WebGL | Three.js | Remix
+
+🧰 BACKEND:
+FastAPI | Flask | Express.js | Node.js | Firebase | Supabase | Nginx | Apache
+
+🛢 DATABASES:
+PostgreSQL | MongoDB | MySQL | SQLite
+
+🧠 AI/ML:
+TensorFlow | PyTorch | Keras | scikit-learn | Pandas | NumPy | Matplotlib
+
+🐳 DEVOPS / INFRA:
+Docker | Kubernetes | Jenkins | GCP | WireGuard
+
+📦 TOOLS:
+Git | GitHub | NPM | Postman | Notion | Trello | Web3.js | Twilio
+
+🎨 DESIGN / UI:
+Figma | Framer | Inkscape | Canva | Blender
+
 
 ## About me
 
