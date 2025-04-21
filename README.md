@@ -4,6 +4,31 @@
  <img alt="YOUR-ALT-TEXT" src="https://img.freepik.com/premium-photo/success-employment-concept_670147-7196.jpg?w=1380">
 </picture>
 
+<!-- Banner -->
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=30&pause=1000&color=00FFB2&center=true&vCenter=true&width=800&lines=msk-robin+%7C+Full-Stack+Sorcerer;AI+Whisperer+%7C+Web3+Tinkerer;Let's+build+dope+%26+dangerous+tech" alt="Typing SVG" />
+</p>
+
+---
+
+# 👨‍💻 msk-robin // Full-Stack Sorcerer & ML Alchemist
+
+```ts
+// currently shipping ✨ magic ✨ with code and caffeine
+const mskRobin = {
+  alias: "msk-robin",
+  role: "Full-Stack Dev | ML & AI Enthusiast | Web3 Explorer",
+  specialties: [
+    "Rapid Prototyping",
+    "API Engineering",
+    "Cloud Infrastructure",
+    "Machine Learning Models",
+    "Frontend Magic"
+  ],
+  motto: "Break stuff. Fix better.",
+}
+
+
 ## About me
 
 Hi, am zazu. A captain of a mighty ship on an epic voyage to smart softwares.
