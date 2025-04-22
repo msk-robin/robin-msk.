@@ -4,6 +4,9 @@
  <img alt="YOUR-ALT-TEXT" src="https://img.freepik.com/premium-photo/success-employment-concept_670147-7196.jpg?w=1380">
 </picture>
 
+msk-robin@github:~$ ./init.sh --fullstack --web3 --ai
+
+
 # 👨‍💻 msk-robin // Full-Stack Sorcerer + AI Whisperer
 
 ```ts
@@ -134,6 +137,20 @@ Figma | Framer | Inkscape | Canva | Blender
 
 <p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=msk-robin&theme=radical&hide_border=false&count_private=true" alt="GitHub Stats" /> <img src="https://streak-stats.demolab.com?user=msk-robin&theme=radical&hide_border=false" alt="GitHub Streak" /> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=msk-robin&layout=compact&theme=radical&hide_border=false" alt="Top Languages" /> </p>
 
+
+```bash
+> systemctl status dev-profile.service
+
+● msk-robin.service - Full Stack Dev | Web3 | AI
+   Loaded: loaded (/etc/systemd/msk-robin.service)
+   Active: active (running) since 2020
+ Main PID: 007 (node, flask, ts)
+    Tasks: 99 (code, deploy, optimize)
+   Memory: 16GB Virtual
+   Network: GitHub · GCP · DockerNet
+     Logs: /home/robin/logs/activity.log
+
+```
 🚀 About Me
 
     🔭 Currently working on: AI-powered developer tools & Web3 infra projects
