@@ -1,17 +1,14 @@
-<!-- Hero Banner -->
-<pre>
+███╗   ███╗███████╗███████╗     ██████╗  ██████╗ ██████╗ ██╗███╗   ██╗
+████╗ ████║██╔════╝██╔════╝    ██╔═══██╗██╔════╝██╔═══██╗██║████╗  ██║
+██╔████╔██║█████╗  █████╗      ██║   ██║██║     ██║   ██║██║██╔██╗ ██║
+██║╚██╔╝██║██╔══╝  ██╔══╝      ██║   ██║██║     ██║   ██║██║██║╚██╗██║
+██║ ╚═╝ ██║███████╗███████╗    ╚██████╔╝╚██████╗╚██████╔╝██║██║ ╚████║
+╚═╝     ╚═╝╚══════╝╚══════╝     ╚═════╝  ╚═════╝ ╚═════╝ ╚═╝╚═╝  ╚═══╝
 
-          ╔═══════════════════════════════════════════════════╗
-          ║      ⠀msk-robin@github ~ YOUR SYSTEM IS ONLINE     ║
-          ╠═══════════════════════════════════════════════════╣
-          ║  ⠀⠀> Full Stack • Web3 • AI • DevOps • Terminal Mage   ║
-          ║  ⠀⠀> Kotlin • Python • TypeScript • Solidity           ║
-          ║  ⠀⠀> React • FastAPI • Three.js • Dockerized      ║
-          ╠═══════════════════════════════════════════════════╣
-          ║    ⠀“Don't ship code. Ship universes.” - msk-robin║
-          ╚═══════════════════════════════════════════════════╝
+     BOOTING SEQUENCE: USER = "msk-robin" ... [OK]
+     ▒▓█▇▅▃▂ INITIATING GLITCH PROTOCOL ▂▃▅▇█▓▒
 
-</pre>
+
 
 <pre style="font-family: 'Fira Code', monospace;">
 
@@ -35,6 +32,11 @@
 <p align="center">
   <img src="./animated_terminal_banner.svg" alt="ASCII Boot Banner" />
 </p>
+
+<p align="center">
+  <img src="./animated_terminal_banner.svg" alt="ASCII Boot Banner" />
+</p>
+
 
 
 <picture>
