@@ -1,3 +1,42 @@
+<!-- Hero Banner -->
+<pre>
+
+          ╔═══════════════════════════════════════════════════╗
+          ║      ⠀msk-robin@github ~ YOUR SYSTEM IS ONLINE     ║
+          ╠═══════════════════════════════════════════════════╣
+          ║  ⠀⠀> Full Stack • Web3 • AI • DevOps • Terminal Mage   ║
+          ║  ⠀⠀> Kotlin • Python • TypeScript • Solidity           ║
+          ║  ⠀⠀> React • FastAPI • Three.js • Dockerized      ║
+          ╠═══════════════════════════════════════════════════╣
+          ║    ⠀“Don't ship code. Ship universes.” - msk-robin║
+          ╚═══════════════════════════════════════════════════╝
+
+</pre>
+
+<pre style="font-family: 'Fira Code', monospace;">
+
+           ███╗   ███╗███████╗██╗  ██╗     ██████╗  ██████╗ ██████╗ ██╗███╗   ██╗
+           ████╗ ████║██╔════╝██║  ██║    ██╔═══██╗██╔════╝██╔═══██╗██║████╗  ██║
+           ██╔████╔██║█████╗  ███████║    ██║   ██║██║     ██║   ██║██║██╔██╗ ██║
+           ██║╚██╔╝██║██╔══╝  ██╔══██║    ██║   ██║██║     ██║   ██║██║██║╚██╗██║
+           ██║ ╚═╝ ██║███████╗██║  ██║    ╚██████╔╝╚██████╗╚██████╔╝██║██║ ╚████║
+           ╚═╝     ╚═╝╚══════╝╚═╝  ╚═╝     ╚═════╝  ╚═════╝ ╚═════╝ ╚═╝╚═╝  ╚═══╝
+
+                 ⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀  booting... ⠀⠀ ⠀⠀
+       ════════════════════════════════════════════════════════════════
+          SYSTEM: msk-robin@github
+          ROLE:   Full Stack Dev · Web3 Engineer · AI Whisperer
+          TOOLS:  Python · Kotlin · TS · Solidity · Docker · FastAPI
+          THEME:  Terminal Punk with Production-Grade Precision ⚙️
+       ════════════════════════════════════════════════════════════════
+            "Code is my canvas. The terminal — my throne."
+</pre>
+
+<p align="center">
+  <img src="./animated_terminal_banner.svg" alt="ASCII Boot Banner" />
+</p>
+
+
 <picture>
  <source media="(prefers-color-scheme: dark)" srcset="https://img.freepik.com/free-vector/hand-drawn-nft-style-ape-illustration_23-2149622034.jpg?w=200&t=st=1665446334~exp=1665446934~hmac=62fe5e54bbe669e601ac1c6b639b5b745d32328a0d99d40981d0a006ea8cd436">
  <source media="(prefers-color-scheme: light)" srcset="https://www.freepik.com/free-photo/empty-dark-room-modern-futuristic-sci-fi-background-3d-illustration_21835199.htm#page=5&query=nft&position=12&from_view=keyword">
@@ -151,6 +190,23 @@ Figma | Framer | Inkscape | Canva | Blender
      Logs: /home/robin/logs/activity.log
 
 ```
+
+| ⚙️ Area | 💥 Expertise | 🔧 Tools |
+|--------|--------------|---------|
+| Frontend | 💯 | React · Next.js · TailwindCSS |
+| Backend | 💯 | FastAPI · Node · Flask |
+| Web3 / Blockchain | 🚀 | Solidity · Web3.js · Remix |
+| ML / AI | 🧠 | PyTorch · TensorFlow · scikit-learn |
+| DevOps | 🔐 | Docker · Jenkins · GCP |
+
+> msk-robin:~$ profile --stats
+
+🔹 Languages: Python, TS, Solidity, Kotlin  
+🔹 Stack: Full-Stack + Web3 + AI  
+🔹 Deploys: Docker, GCP, Firebase  
+🔹 🔥 Favorite Tool: FastAPI
+
+
 🚀 About Me
 
     🔭 Currently working on: AI-powered developer tools & Web3 infra projects
